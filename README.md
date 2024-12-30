@@ -2,9 +2,9 @@
 
 Developed **Ludo King** a ludo game application using **React Native** and **Redux Toolkit**, featuring smooth gameplay mechanics with dice rolling and piece movement. The app includes efficient state management for real-time updates, ensuring a seamless gaming experience. A responsive UI, sound effects, and smooth animations are implemented to enhance user engagement. The game also features interactive pile movements and user-friendly controls to further improve the overall experience.
 
-<!-- ## APK Download Link
+## APK Download Link
 
-You can download the app from the following link: [https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing](https://drive.google.com/file/d/1jks00QfnuqduNJfB8UhE79Si2jAlD33w/view?usp=sharing) -->
+You can download the app from the following link: [https://drive.google.com/file/d/1d7ZaWMYh6Z6DRMTdcKLhFDbHKQ-DWAOp/view?usp=drive_link](https://drive.google.com/file/d/1d7ZaWMYh6Z6DRMTdcKLhFDbHKQ-DWAOp/view?usp=drive_link)
 
 ## Features
 
@@ -25,8 +25,8 @@ You can download the app from the following link: [https://drive.google.com/file
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Suresh1061/Ludo_Master.git
-   cd Ludo_Master
+   git clone https://github.com/Suresh1061/Ludo_King.git
+   cd Ludo_King
 
 2. Install dependencies:
    ```bash
