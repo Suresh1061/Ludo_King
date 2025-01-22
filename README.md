@@ -4,7 +4,7 @@ Developed **Ludo King** a ludo game application using **React Native** and **Red
 
 ## APK Download Link
 
-You can download the app from the following link: [https://drive.google.com/file/d/1d7ZaWMYh6Z6DRMTdcKLhFDbHKQ-DWAOp/view?usp=drive_link](https://drive.google.com/file/d/1d7ZaWMYh6Z6DRMTdcKLhFDbHKQ-DWAOp/view?usp=drive_link)
+You can download the app from the following link: [APK Download Link](https://www.upload-apk.com/en/gmsskwh8a7WwFWe)
 
 ## Features
 
